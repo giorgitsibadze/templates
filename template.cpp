@@ -1,6 +1,6 @@
 #pragma GCC optimize("Ofast")
 #include <bits/stdc++.h>
-#define int long long
+//#define int long long
 #define ll long long
 #define pb push_back
 #define popb pop_back
