@@ -1,15 +1,28 @@
 #pragma GCC optimize("Ofast")
-#include <bits/stdc++.h>
-//#define int long long
+#include <iostream>
+#include <algorithm>
+#include <vector>
+#include <set>
+#include <cstring>
+#include <queue>
+#include <map>
+#include <cmath>
+#include <iomanip>
+#include <stack>
+using namespace std;
+
+// #define int long long
 #define ll long long
 #define pb push_back
 #define popb pop_back
 #define pii pair<int, int>
 #define pll pair<ll, ll>
-using namespace std;
+#define ff first
+#define sc second
 
 const int mod = 1e9 + 7;
-const int inf = 1e15;
+const int inf = 1e7;
+const int MAXN = 2 * 1e5;
 
 void solve() {
     
